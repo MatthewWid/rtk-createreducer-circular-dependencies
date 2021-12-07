@@ -21,6 +21,10 @@ TypeError: Cannot read property 'fulfilled' of undefined
  ELIFECYCLE  Command failed with exit code 1.
 ```
 
+Switch to the `slice-fix` branch and compile and run again and notice that the issue is fixed (thanks RTK `1.7.0-beta.1`!).
+
+Ideally, the original form would work just as well.
+
 # Run
 
 Install Node:
